@@ -1,0 +1,53 @@
+h1, h3, h2,
+{
+    text-align:center;
+}
+h3
+{
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+}
+.news
+{
+    width:70%;
+    margin:auto;
+}
+.errorMsg
+{
+    background-color: orange;
+    text-align:center;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+/* Mon ancien CSS */
+pre{
+	background-color: orange;
+}
+label{
+	width: 200px;
+}
+td{
+	border: 1px solid black;
+	padding: 10px;
+}
+table{
+	border-collapse: collapse;
+}
+tr:nth-child(even){
+	background-color: orange;
+}
+tr:nth-child(odd){
+	background-color: olive;
+}
